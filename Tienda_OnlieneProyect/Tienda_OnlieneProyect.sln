@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda_OnineApi", "Tienda_OnineApi\Tienda_OnineApi.csproj", "{8C668E29-7095-4218-B6B3-0B26600459F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda_OnlineWeb", "Tienda_OnlineWeb\Tienda_OnlineWeb.csproj", "{BE94CF80-2CF0-4268-B097-59E760E89B48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda_OnlineWeb", "Tienda_OnlineWeb\Tienda_OnlineWeb.csproj", "{33076CC4-4338-4B43-AA30-61C78BBB1402}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8C668E29-7095-4218-B6B3-0B26600459F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C668E29-7095-4218-B6B3-0B26600459F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C668E29-7095-4218-B6B3-0B26600459F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BE94CF80-2CF0-4268-B097-59E760E89B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE94CF80-2CF0-4268-B097-59E760E89B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE94CF80-2CF0-4268-B097-59E760E89B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE94CF80-2CF0-4268-B097-59E760E89B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33076CC4-4338-4B43-AA30-61C78BBB1402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33076CC4-4338-4B43-AA30-61C78BBB1402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33076CC4-4338-4B43-AA30-61C78BBB1402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33076CC4-4338-4B43-AA30-61C78BBB1402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
